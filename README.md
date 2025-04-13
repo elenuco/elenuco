@@ -1,6 +1,6 @@
 ### Hi there 👋 I’m elenuco but you can call me Elena Umanzor
 ---
-## I’m a web developer and Data Science Student
+## I’m a QA Analyst and Data Science Student
 
 <!--
 **elenuco/elenuco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
